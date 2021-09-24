@@ -23,16 +23,6 @@ export default {
       icon: "icon-puzzle",
     },
     {
-      name: "Departments",
-      url: "/page2",
-      icon: "icon-puzzle",
-    },
-    {
-      name: "Units",
-      url: "/page1",
-      icon: "icon-puzzle",
-    },
-    {
       name: "Skills",
       url: "/page2",
       icon: "icon-puzzle",
